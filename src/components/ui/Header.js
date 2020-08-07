@@ -1,6 +1,6 @@
 
 import React from 'react';
-import companyLogo from '../../assets/images/company_logo.jpg';
+import companyLogo from './../../assets/images/company_logo.jpg';
 export const Header = () => {
 
     let liActive = "";
