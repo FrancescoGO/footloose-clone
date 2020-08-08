@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/footloose-clone/precache-manifest.4e504c67999b860f6dc5a849bede55d9.js"
+  "/footloose-clone/precache-manifest.280aaf1b96c13b51fbad492c9c9d2c84.js"
 );
 
 self.addEventListener('message', (event) => {

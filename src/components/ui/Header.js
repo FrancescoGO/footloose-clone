@@ -1,6 +1,7 @@
 
 import React from 'react';
 import companyLogo from './../../assets/images/company_logo.jpg';
+import banner_advertisements from './../../assets/images/banner-advertisements.gif';
 export const Header = () => {
 
     let liActive = "";
@@ -55,22 +56,22 @@ export const Header = () => {
         <>
             <header>
 
-                <div className="header-contact">
+                <section className="header-contact">
                     <a href="#">
                         <i className="fas fa-map-marker-alt"></i>
                         Tiendas
                     </a>
                     <p>
                         <i className="fas fa-phone-alt"></i>
-                        Fono compras 017482402 / 936121553 / 989114786 / 968212785
+                        Fono compras <span>017482402 / 936121553 / 989114786 / 968212785</span>
                     </p>
                     <a href="#">
                         <i className="far fa-question-circle"></i>
                         Ayuda
                     </a>
-                </div>
+                </section>
 
-                <div className="header-face">
+                <section className="header-face">
                     <a href="#">
                         <img src={companyLogo} alt="Logo Empresarial" />
                     </a>
@@ -90,16 +91,18 @@ export const Header = () => {
                         </p>
                         <a className="button" href="#">Únete al catálogo <br/>Footloose</a>
                     </div>
-                </div>
+                </section>
 
-                <div className="header-search">
+                <section className="header-search">
                     <div className="search-container">
-                        <i className="fas fa-search"></i>
                         <input type="text" placeholder="Encuentra + de 20 mil productos..." />
+                        <a className="button">
+                            <i className="fas fa-search"></i>
+                        </a>
                     </div>
-                </div>
+                </section>
 
-                <div className="header-menu">
+                <section className="header-menu">
                     <ul className="menu-main">
                         <li
                             onMouseEnter={onMouseEnterLi}
@@ -178,11 +181,13 @@ export const Header = () => {
                             <a href="#">Mejores ofertas ► ► ►</a>
                         </div>
                     </div>
-                </div>
+                </section>
 
-                <div className="header-advertisements">
-                    <a href="#"></a>
-                </div>
+                <section className="header-advertisements">
+                    <a href="#">
+                        <img src={banner_advertisements} alt="Banner publicitario"></img>
+                    </a>
+                </section>
 
             </header>
         </>

@@ -41,6 +41,11 @@ import ma_hitec from '../../assets/images/brands/ma-hitec.webp';
 import ma_vans from '../../assets/images/brands/ma-vans.webp';
 import ma_puma from '../../assets/images/brands/ma-puma.webp';
 
+// MÁS VENDIDOS
+
+import sandalias_v20_negro from '../../assets/images/bestsells/sandalias_footloose_fz02v20_negro.webp';
+import model_girl from '../../assets/images/bestsells/model_girl.webp';
+
 export const HomeScreen = () => {
 
     let position = 0;
@@ -227,6 +232,90 @@ export const HomeScreen = () => {
                         </div>
                         <div className="items">
                             <a href="#"><img src={ma_puma} alt="Marca Puma" /></a>
+                        </div>
+                    </div>
+                </section>
+                <section className="bestsells-container">
+                    <h2>LOS MÁS VENDIDOS</h2>
+                    <img className="model-girl" src={model_girl} alt="" />
+                    <div className="bestsells-slider bestseller-items">
+                        <div className="items">
+                            <a href="#">
+                                <img src={sandalias_v20_negro} alt="Sandalias Footloose Negro" />
+                                <p>
+                                    SANDALIAS FOOTLOOSE FZ-02V20 NEGRO
+                                </p>
+                                <div className="bestsells-price">
+                                    <span>S/ 99.00</span>
+                                    <span>S/ 49.50</span>
+                                </div>
+                                <span className="price-offer-percentage">-50%</span>
+                            </a>
+                        </div>
+                        <div className="items">
+                            <a href="#">
+                                <img src={sandalias_v20_negro} alt="Sandalias Footloose Negro" />
+                                <p>
+                                    SANDALIAS FOOTLOOSE FZ-02V20 NEGRO
+                                </p>
+                                <div className="bestsells-price">
+                                    <span>S/ 99.00</span>
+                                    <span>S/ 49.50</span>
+                                </div>
+                                <span className="price-offer-percentage">-50%</span>
+                            </a>
+                        </div>
+                        <div className="items">
+                            <a href="#">
+                                <img src={sandalias_v20_negro} alt="Sandalias Footloose Negro" />
+                                <p>
+                                    SANDALIAS FOOTLOOSE FZ-02V20 NEGRO
+                                </p>
+                                <div className="bestsells-price">
+                                    <span>S/ 99.00</span>
+                                    <span>S/ 49.50</span>
+                                </div>
+                                <span className="price-offer-percentage">-50%</span>
+                            </a>
+                        </div>
+                        <div className="items">
+                            <a href="#">
+                                <img src={sandalias_v20_negro} alt="Sandalias Footloose Negro" />
+                                <p>
+                                    SANDALIAS FOOTLOOSE FZ-02V20 NEGRO
+                                </p>
+                                <div className="bestsells-price">
+                                    <span>S/ 99.00</span>
+                                    <span>S/ 49.50</span>
+                                </div>
+                                <span className="price-offer-percentage">-50%</span>
+                            </a>
+                        </div>
+                        <div className="items">
+                            <a href="#">
+                                <img src={sandalias_v20_negro} alt="Sandalias Footloose Negro" />
+                                <p>
+                                    SANDALIAS FOOTLOOSE FZ-02V20 NEGRO
+                                </p>
+                                <div className="bestsells-price">
+                                    <span>S/ 99.00</span>
+                                    <span>S/ 49.50</span>
+                                </div>
+                                <span className="price-offer-percentage">-50%</span>
+                            </a>
+                        </div>
+                        <div className="items">
+                            <a href="#">
+                                <img src={sandalias_v20_negro} alt="Sandalias Footloose Negro" />
+                                <p>
+                                    SANDALIAS FOOTLOOSE FZ-02V20 NEGRO
+                                </p>
+                                <div className="bestsells-price">
+                                    <span>S/ 99.00</span>
+                                    <span>S/ 49.50</span>
+                                </div>
+                                <span className="price-offer-percentage">-50%</span>
+                            </a>
                         </div>
                     </div>
                 </section>

@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/footloose-clone/static/css/main.e53a8068.chunk.css",
-    "main.js": "/footloose-clone/static/js/main.13aa65db.chunk.js",
-    "main.js.map": "/footloose-clone/static/js/main.13aa65db.chunk.js.map",
+    "main.css": "/footloose-clone/static/css/main.e4bda9c2.chunk.css",
+    "main.js": "/footloose-clone/static/js/main.48c79ddc.chunk.js",
+    "main.js.map": "/footloose-clone/static/js/main.48c79ddc.chunk.js.map",
     "runtime-main.js": "/footloose-clone/static/js/runtime-main.c8e6a8d2.js",
     "runtime-main.js.map": "/footloose-clone/static/js/runtime-main.c8e6a8d2.js.map",
-    "static/js/2.f4f5b5e1.chunk.js": "/footloose-clone/static/js/2.f4f5b5e1.chunk.js",
-    "static/js/2.f4f5b5e1.chunk.js.map": "/footloose-clone/static/js/2.f4f5b5e1.chunk.js.map",
+    "static/js/2.249e646d.chunk.js": "/footloose-clone/static/js/2.249e646d.chunk.js",
+    "static/js/2.249e646d.chunk.js.map": "/footloose-clone/static/js/2.249e646d.chunk.js.map",
     "index.html": "/footloose-clone/index.html",
-    "precache-manifest.4e504c67999b860f6dc5a849bede55d9.js": "/footloose-clone/precache-manifest.4e504c67999b860f6dc5a849bede55d9.js",
+    "precache-manifest.280aaf1b96c13b51fbad492c9c9d2c84.js": "/footloose-clone/precache-manifest.280aaf1b96c13b51fbad492c9c9d2c84.js",
     "service-worker.js": "/footloose-clone/service-worker.js",
-    "static/css/main.e53a8068.chunk.css.map": "/footloose-clone/static/css/main.e53a8068.chunk.css.map",
-    "static/js/2.f4f5b5e1.chunk.js.LICENSE.txt": "/footloose-clone/static/js/2.f4f5b5e1.chunk.js.LICENSE.txt",
+    "static/css/main.e4bda9c2.chunk.css.map": "/footloose-clone/static/css/main.e4bda9c2.chunk.css.map",
+    "static/js/2.249e646d.chunk.js.LICENSE.txt": "/footloose-clone/static/js/2.249e646d.chunk.js.LICENSE.txt",
     "static/media/advertisements-1.gif": "/footloose-clone/static/media/advertisements-1.150b4d48.gif",
     "static/media/advertisements-2.gif": "/footloose-clone/static/media/advertisements-2.7aa8a440.gif",
-    "static/media/index.css": "/footloose-clone/static/media/banner-advertisements.58509a79.gif",
+    "static/media/index.css": "/footloose-clone/static/media/background_footer.31c8a8b1.webp",
+    "static/media/banner-advertisements.gif": "/footloose-clone/static/media/banner-advertisements.58509a79.gif",
     "static/media/banner_accesorios_30.webp": "/footloose-clone/static/media/banner_accesorios_30.b7375330.webp",
     "static/media/banner_canjea_vale30s.webp": "/footloose-clone/static/media/banner_canjea_vale30s.d2e1c486.webp",
     "static/media/banner_diversion_50calzado_ninos.webp": "/footloose-clone/static/media/banner_diversion_50calzado_ninos.5eba336d.webp",
     "static/media/banner_invierno_40.webp": "/footloose-clone/static/media/banner_invierno_40.c90c2318.webp",
     "static/media/banner_nuevos_ingresos.webp": "/footloose-clone/static/media/banner_nuevos_ingresos.e9cddf65.webp",
+    "static/media/banner_tracking.png": "/footloose-clone/static/media/banner_tracking.44961000.png",
     "static/media/banner_zapatillas_50.gif": "/footloose-clone/static/media/banner_zapatillas_50.f772e4d0.gif",
     "static/media/company_logo.jpg": "/footloose-clone/static/media/company_logo.9c6d0776.jpg",
     "static/media/ma-adidas.webp": "/footloose-clone/static/media/ma-adidas.dd46f719.webp",
@@ -45,12 +47,14 @@
     "static/media/ma-topmodel.webp": "/footloose-clone/static/media/ma-topmodel.a6b6d175.webp",
     "static/media/ma-umbro.webp": "/footloose-clone/static/media/ma-umbro.c206b6e1.webp",
     "static/media/ma-vans.webp": "/footloose-clone/static/media/ma-vans.6885dde1.webp",
-    "static/media/ma-vizzano.webp": "/footloose-clone/static/media/ma-vizzano.22fe718f.webp"
+    "static/media/ma-vizzano.webp": "/footloose-clone/static/media/ma-vizzano.22fe718f.webp",
+    "static/media/model_girl.webp": "/footloose-clone/static/media/model_girl.c0ab7bbd.webp",
+    "static/media/sandalias_footloose_fz02v20_negro.webp": "/footloose-clone/static/media/sandalias_footloose_fz02v20_negro.5f607d4f.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.c8e6a8d2.js",
-    "static/js/2.f4f5b5e1.chunk.js",
-    "static/css/main.e53a8068.chunk.css",
-    "static/js/main.13aa65db.chunk.js"
+    "static/js/2.249e646d.chunk.js",
+    "static/css/main.e4bda9c2.chunk.css",
+    "static/js/main.48c79ddc.chunk.js"
   ]
 }

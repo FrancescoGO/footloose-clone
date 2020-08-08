@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a711e2dd8aefc3b95a5409901d5dda6",
+    "revision": "7dbdeb014f2ca1acec8e4ebd6c82ac37",
     "url": "/footloose-clone/index.html"
   },
   {
-    "revision": "1034254d62f9975c6ede",
-    "url": "/footloose-clone/static/css/main.e53a8068.chunk.css"
+    "revision": "1044bd91a6a3c3803533",
+    "url": "/footloose-clone/static/css/main.e4bda9c2.chunk.css"
   },
   {
-    "revision": "c633013002903cc95a9d",
-    "url": "/footloose-clone/static/js/2.f4f5b5e1.chunk.js"
+    "revision": "41a8af3cb5c8b27aadb7",
+    "url": "/footloose-clone/static/js/2.249e646d.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/footloose-clone/static/js/2.f4f5b5e1.chunk.js.LICENSE.txt"
+    "url": "/footloose-clone/static/js/2.249e646d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1034254d62f9975c6ede",
-    "url": "/footloose-clone/static/js/main.13aa65db.chunk.js"
+    "revision": "1044bd91a6a3c3803533",
+    "url": "/footloose-clone/static/js/main.48c79ddc.chunk.js"
   },
   {
     "revision": "6a24191f364159894878",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7aa8a4404875346da1f4e7e3ebc7333e",
     "url": "/footloose-clone/static/media/advertisements-2.7aa8a440.gif"
+  },
+  {
+    "revision": "31c8a8b12d7355a7014e298ba5f9a7c4",
+    "url": "/footloose-clone/static/media/background_footer.31c8a8b1.webp"
   },
   {
     "revision": "58509a79716f062f8e5c416eb0ac91b5",
@@ -54,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e9cddf65a3992f1f69c87aba31c26093",
     "url": "/footloose-clone/static/media/banner_nuevos_ingresos.e9cddf65.webp"
+  },
+  {
+    "revision": "44961000261940777db383fe20d7e7b8",
+    "url": "/footloose-clone/static/media/banner_tracking.44961000.png"
   },
   {
     "revision": "f772e4d091c3e75e69e2e3f9681b344b",
@@ -158,5 +166,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "22fe718f2e2eca09155c68c8a4253e1f",
     "url": "/footloose-clone/static/media/ma-vizzano.22fe718f.webp"
+  },
+  {
+    "revision": "c0ab7bbd5b2913ff0d293103c669f8dd",
+    "url": "/footloose-clone/static/media/model_girl.c0ab7bbd.webp"
+  },
+  {
+    "revision": "5f607d4fe9125ab7e305c22fe897d558",
+    "url": "/footloose-clone/static/media/sandalias_footloose_fz02v20_negro.5f607d4f.webp"
   }
 ]);
